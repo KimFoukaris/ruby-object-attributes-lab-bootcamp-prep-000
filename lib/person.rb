@@ -1,9 +1,9 @@
 class Person
-  def person=(name)
+  def Name=(name)
     @name = name
   end
 
-  def person
+  def name
     @name
   end
 
